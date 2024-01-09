@@ -1,7 +1,7 @@
 Contributing to the Editor
 ==========================
 
-Hey! Many thanks for wanting to improve the browser based editor for
+Hey  Many thanks for wanting to improve the browser based editor for
 MicroPython on the BBC micro:bit.
 
 Contributions are welcome, without prejudice, from *anyone* irrespective of
@@ -45,3 +45,4 @@ Translations
 
 If you're talented enough to speak another language, we'd love you to contribute a 
 translation to the editor. Learn more about how this works in the translation strategy within the docs folder. 
+ 
